@@ -76,3 +76,7 @@ The **HazGuard Robotic Arm** project is a controlled robotic arm designed to fac
 2. **Wear the Glove**: Ensure the glove with flexible sensors is properly fitted on your hand.
 3. **Test the Control and calibration**:
    - Move your hand to test the robotic arm's movements.
+#### 4. Images Through Building the Project:
+![Building the Project](https://github.com/itsbakr/HazGuard_Robotic_Arm/assets/145081878/69ba6810-eb4a-4fd5-97be-de21319b7a62)
+![Full Robotic Arm](https://github.com/itsbakr/HazGuard_Robotic_Arm/assets/145081878/eaf6326b-0be3-4a07-a8dd-0d71befd08a9)
+
