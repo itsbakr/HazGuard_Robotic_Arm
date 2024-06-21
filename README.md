@@ -16,7 +16,7 @@ The **HazGuard Robotic Arm** project is a controlled robotic arm designed to fac
 
 - **Arduino_Code**: Contains the Arduino source code for calibration and main operation.
 - **Schematics**: Includes circuit diagrams.
-- **Images & Videos**: Demonstration images and videos showcasing the project.
+- **Images**: Demonstration images showcasing the project.
 
 ## Getting Started
 
